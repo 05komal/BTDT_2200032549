@@ -7,39 +7,40 @@ Key Features of Ganache
 Simulates the Ethereum blockchain locally on your machine.
 Provides a quick and secure environment to test smart contracts.
 
-Pre-Funded Accounts:
+2.Pre-Funded Accounts:
 
 Generates multiple accounts pre-funded with Ether, enabling easy testing without real assets.
 
-Customizable Settings:
+3.Customizable Settings:
 
 Configure gas price, block mining times, and more to suit your development needs.
 
-Rich Debugging Tools:
+4.Rich Debugging Tools:
 
 Logs transaction history, smart contract events, and state changes for easy debugging.
 
-Integrated Tools:
+5.Integrated Tools:
 
 Works seamlessly with other Truffle Suite tools like Truffle and Drizzle.
 
-Cross-Platform Availability:
+6.Cross-Platform Availability:
 
 Available as both a desktop application and a command-line interface (CLI).
-Common Use Cases
 
-Smart Contract Development:
+Use Cases
+
+1.Smart Contract Development:
 
 Compile, deploy, and test contracts in a controlled environment.
 
-Testing Transactions:
+2.Testing Transactions:
 
 Simulate sending Ether and interacting with smart contracts.
 
-dApp Development:
+3.dApp Development:
 
 Test your decentralized applications without connecting to live Ethereum networks.
 
-Blockchain Learning:
+4.Blockchain Learning:
 
 Ideal for learning Ethereum concepts like transactions, gas, and block mining.
